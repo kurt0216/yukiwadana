@@ -12,15 +12,10 @@ My main stack on frontend:
 My main stack on blockchains:
 - ⚡ Solana (Rust)
 - △ Ethereum (Solidity) <br />
-  ▽
-  
-Tools:
-- Docker
-- Linux
+  ▽  
   
 Contact me:
-- Site and portfolio: https://gabriel.vercel.app/portfolio
-- Linkedin: https://linkedin.com/in/gabriel-costa-dev/
+- Linkedin: https://www.linkedin.com/in/yuki-wadana-5262b41b8/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukiwadana&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
