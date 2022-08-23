@@ -1,18 +1,7 @@
 ### Hello 👋
+Enthusiastic full-stack engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of web3 projects and training in Solidity and Typescript languages. Motivated to learn, grow and excel in cutting-edge blockchain technologies.
+Experienced full-stack developer with over 2 years of experience in Blockchain space and excellent reputation for resolving problems and improving customer satisfaction.
 
-I am a frontend and blockchain developer. I know how to write smart contracts on Ethereum and Solana, develop the UX/UI, animations, SEO, of websites and many more.
-
-My main stack on frontend:
-- 🤯 NextJS / React / Vue
-- 🖌️ TailwindCSS / StyledComponents
-- 🎥 Framer Motion
-- GraphQL
-- Unit Tests
-
-My main stack on blockchains:
-- ⚡ Solana (Rust)
-- △ Ethereum (Solidity) <br />
-  ▽  
   
 Contact me:
 - Linkedin: https://www.linkedin.com/in/yuki-wadana-5262b41b8/
